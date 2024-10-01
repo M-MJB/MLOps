@@ -1,5 +1,5 @@
-# filoger-MLOps-project
-![Alt text](app\static\assets\img4.png "Title")
+# MLOps-project
+![Alt text](./app/static/assets/img4.png)
 # Breast Cancer Prediction Smart Web Service
 
 ## Overview
